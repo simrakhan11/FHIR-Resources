@@ -1,0 +1,40 @@
+{
+   "resourceType":"Organization",
+   "identifier":[
+      {
+         "use":"temp",
+         "value":"12345"
+      },
+      {
+         "use":"temp",
+         "value":"12345"
+      }
+   ],
+   "active":true,
+   "name":"hamdard hospital",
+   "contact":[
+      {
+         "name":[
+            {
+               "use":"nickname",
+               "family":"Ali",
+               "given":"Saif"
+            }
+         ],
+         "telecom":[
+            {
+               "system":"email",
+               "use":"work",
+               "value":"saif.ali@gmail.com",
+               "rank":"2"
+            },
+            {
+               "system":"phone",
+               "use":"mobile",
+               "value":"090078601",
+               "rank":"1"
+            }
+         ]
+      }
+   ]
+}
